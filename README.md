@@ -69,6 +69,10 @@ A production version of this workflow would benefit from:
 - Privacy and access controls
 - Continued human review of ambiguous outputs
 
+## Visual Overview
+
+![Pipeline Overview](./pipeline_overview.png)
+
 ## Notebook
 
 See [`workforce_signals_pipeline.ipynb`](./workforce_signals_pipeline.ipynb) for the complete workflow and analysis.
