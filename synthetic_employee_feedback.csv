@@ -1,0 +1,51 @@
+employee_id,department_raw,tenure_years,review_date,review_text
+E1001,Eng,1.3,2026-06-28,Mandatory overtime is burning out the team.
+E1002,Engineering,2.2,2026-07-20,The new data platform saves me hours every week.
+E1003,Eng,6.7,2026-05-25,The workload has been unsustainable since the reorganization.
+E1004,Engineering,5.4,2026-07-29,My manager supports the team and communicates clearly.
+E1005,Engineering,1.1,2026-07-04,Technical requirements often change halfway through the project.
+E1006,Eng,5.5,2026-05-23,I receive useful feedback during code reviews.
+E1007,Sales,6.5,2026-05-05,The bonus formula is confusing and not transparent.
+E1008,sales,2.2,2026-05-19,Pay has not kept up with the market.
+E1009,sales,7.3,2026-08-02,The recognition program is genuinely motivating.
+E1010,Sales,6.4,2026-06-20,Late-night messages have become part of the culture.
+E1011,sales,1.7,2026-06-20,My manager gives clear priorities and removes blockers.
+E1012,Sales,1.1,2026-07-21,Promotion expectations are not clearly explained.
+E1013,customer success,7.7,2026-05-17,Flexible hours help me balance work and family.
+E1014,customer success,7.3,2026-06-05,My work is rarely recognized.
+E1015,CustSuccess,1.4,2026-06-15,Onboarding documentation could be clearer.
+E1016,Customer Success,5.1,2026-05-14,There is no clear path to promotion.
+E1017,CustSuccess,8.0,2026-06-17,The team is supportive during difficult customer situations.
+E1018,CustSuccess,2.0,2026-07-25,We do not have enough staff to manage the current workload.
+E1019,Product,6.1,2026-06-26,The learning stipend helped me develop new skills.
+E1020,Product,7.7,2026-07-21,Leadership decisions are communicated too late.
+E1021,product,2.7,2026-05-13,My manager gives helpful feedback during one-on-one meetings.
+E1022,product,1.7,2026-06-18,I received no feedback until the annual review.
+E1023,Product,6.1,2026-05-05,Cross-functional collaboration has improved this year.
+E1024,Prod,5.9,2026-05-17,Too many meetings leave little time for focused work.
+E1025,Ops,1.8,2026-07-02,Our tools require too much manual spreadsheet work.
+E1026,Operations,4.3,2026-06-29,The team environment is fine but not especially engaging.
+E1027,Ops,6.3,2026-07-05,Staffing shortages have not been addressed.
+E1028,Ops,3.1,2026-07-26,The remote work policy helps me stay productive.
+E1029,Operations,7.4,2026-06-23,Processes are documented clearly and consistently.
+E1030,operations,2.6,2026-07-06,Small errors often require several layers of approval to fix.
+E1031,Data Analytics,7.9,2026-06-23,Senior analysts provide excellent mentorship.
+E1032,Data,6.0,2026-06-13,Requirements frequently change during projects.
+E1033,Data Analytics,4.3,2026-06-30,My promotion salary increase was fair.
+E1034,Data,2.4,2026-05-23,Meetings take up most of the day and analysis happens at night.
+E1035,Data Analytics,2.6,2026-05-20,The team encourages experimentation and learning.
+E1036,data,8.1,2026-06-12,Access to important datasets takes too long.
+E1037,hr,2.2,2026-07-16,Employees are not always informed when policies change.
+E1038,Human Resources,4.6,2026-07-27,The new onboarding process is much more organized.
+E1039,HR,1.6,2026-07-13,The HR team is handling too many manual requests.
+E1040,Human Resources,4.0,2026-07-25,Leadership listens to employee feedback and follows up.
+E1001,Eng,1.3,2026-06-28,MANDATORY OVERTIME IS BURNING OUT THE TEAM.
+E1004,Engineering,5.4,2026-07-29,MY MANAGER SUPPORTS THE TEAM AND COMMUNICATES CLEARLY.
+E1008,sales,2.2,2026-05-19,PAY HAS NOT KEPT UP WITH THE MARKET.
+E1012,Sales,1.1,2026-07-21,PROMOTION EXPECTATIONS ARE NOT CLEARLY EXPLAINED.
+E1016,Customer Success,5.1,2026-05-14,THERE IS NO CLEAR PATH TO PROMOTION.
+E1020,Product,7.7,2026-07-21,LEADERSHIP DECISIONS ARE COMMUNICATED TOO LATE.
+E1026,Operations,4.3,2026-06-29,THE TEAM ENVIRONMENT IS FINE BUT NOT ESPECIALLY ENGAGING.
+E1032,Data,6.0,2026-06-13,REQUIREMENTS FREQUENTLY CHANGE DURING PROJECTS.
+E9998,Ops,2.0,2026-08-02,
+E9999,Data,1.0,2026-08-02,
